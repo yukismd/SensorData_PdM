@@ -15,3 +15,4 @@ CMAPSS Jet Engine Simulated Data: https://data.nasa.gov/Aerospace/CMAPSS-Jet-Eng
 
 ### Driverless AI Experiment
 Experiment Auto Doc: https://github.com/yukismd/SensorData_PdM/tree/main/DAI_Experiment
+Driverless AI Experiment file (1.2GB): https://jp-public.s3.ap-southeast-1.amazonaws.com/other/PdM/h2oai_experiment_83b7cd5c-bcb1-11ee-a7bd-2e53304ac579.dai
