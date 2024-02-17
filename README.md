@@ -2,7 +2,8 @@
 ## センサーデータを題材にした予知保全/Predictive Maintenanceユースケース
 
 ### Original Dataset
-CMAPSS Jet Engine Simulated Data: https://data.nasa.gov/Aerospace/CMAPSS-Jet-Engine-Simulated-Data/ff5v-kuh6/about_data
+CMAPSS Jet Engine Simulated Data: https://data.nasa.gov/Aerospace/CMAPSS-Jet-Engine-Simulated-Data/ff5v-kuh6/about_data  
+"train_FD002.txt"を利用
 
 ### Code(Notebook)
 - [code/0_dataPrep.ipynb](code/0_dataPrep.ipynb) - Original Datasetの処理
