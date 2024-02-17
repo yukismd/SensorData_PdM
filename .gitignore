@@ -1,0 +1,19 @@
+# jupyter
+*.ipynb_checkpoints
+
+# tmp folder
+tmp
+
+# mac files
+.DS_Store
+
+# MS PPT
+*.pptx
+
+# DAI Experiment
+*.dai
+
+__pycache__
+
+# keys
+_secret
