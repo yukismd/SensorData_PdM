@@ -3,7 +3,7 @@
 
 ***
 
-Slide: [Data analysis guideline for manufacturing v240309.pdf](Data analysis guideline for manufacturing v240309.pdf)
+Slide: [Data analysis guideline for manufacturing v240309.pdf](./Data%20analysis%20guideline%20for%20manufacturing%20v240309.pdf)
 
 ***
 
