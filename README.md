@@ -1,6 +1,12 @@
 # SensorData_PdM
 ## センサーデータを題材にした予知保全/Predictive Maintenanceユースケース
 
+***
+
+Slide: [Data analysis guideline for manufacturing v240309.pdf](Data analysis guideline for manufacturing v240309.pdf)
+
+***
+
 ### Original Dataset
 CMAPSS Jet Engine Simulated Data: https://data.nasa.gov/Aerospace/CMAPSS-Jet-Engine-Simulated-Data/ff5v-kuh6/about_data  
 "train_FD002.txt"を利用
